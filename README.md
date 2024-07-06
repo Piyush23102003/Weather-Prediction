@@ -8,3 +8,7 @@ https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_20
 # Models used
 1. LSTM
 2. Random Forest
+
+
+# To run the project
+streamlit run weather.py
